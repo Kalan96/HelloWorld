@@ -1,4 +1,4 @@
-Simple Hello World project
+Simple Soup project
 
 To compile, execute the command
 ```sh
