@@ -1,4 +1,4 @@
-Simple Soup project
+Simple Soup Peopel project
 
 To compile, execute the command
 ```sh
